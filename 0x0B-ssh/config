@@ -1,4 +1,0 @@
-Host web-01
-       HostName 100.26.246.187
-       Port     22
-       User     ubuntu
