@@ -1,6 +1,8 @@
 # **Postmortem: The Day Our Database Went Rogue – A Tale of Queries, Indexes, and Unexpected Traffic**
 
 ## 
+<img src=./photo.png width=50%>
+
 
 ## Issue Summary
 
